@@ -6,6 +6,7 @@
     "esbenp.prettier-vscode",
     "PKief.material-icon-theme",
     "oderwat.indent-rainbow",
-    "tomoki1207.pdf"
+    "tomoki1207.pdf",
+    "streetsidesoftware.code-spell-checker"
   ]
 }
