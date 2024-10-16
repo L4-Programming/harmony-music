@@ -27,6 +27,7 @@ button {
 .form-section {
   width: calc(50% - 1px);
   display: flex;
+  flex-grow: 1;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
